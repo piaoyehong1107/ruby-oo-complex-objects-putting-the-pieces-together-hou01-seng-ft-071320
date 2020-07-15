@@ -6,7 +6,7 @@ class Shoe
   attr_reader:brand
   
   def cobble
-  puts "Flipping the page...wow, you read fast!"
+  #puts "Flipping the page...wow, you read fast!"
   end
   
 end
